@@ -13,7 +13,7 @@
 ![GIT Badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 💾 Bancos de Dados
+## 💾 Bancos de Dados
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -21,7 +21,7 @@
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-# 💡 Arquitetura e Padrões de Código
+## 💡 Arquitetura e Padrões de Código
 ![SOLID Badge](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=codefactor&logoColor=white)
 ![KISS Badge](https://img.shields.io/badge/KISS-007ACC?style=for-the-badge&logo=reactivex&logoColor=white)
 ![MVC Badge](https://img.shields.io/badge/MVC-A71D31?style=for-the-badge&logo=dotnet&logoColor=white)
