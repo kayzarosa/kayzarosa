@@ -1,4 +1,4 @@
-# 🚀 Perfil Profissional | Kayza Novais Rosa
+# 🚀 Perfil Profissional | Kayza Rosa
 
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -26,7 +26,7 @@
 ![KISS Badge](https://img.shields.io/badge/KISS-007ACC?style=for-the-badge&logo=reactivex&logoColor=white)
 ![MVC Badge](https://img.shields.io/badge/MVC-A71D31?style=for-the-badge&logo=dotnet&logoColor=white)
 
-Olá! Sou **Kayza Novais Rosa**, uma desenvolvedora Full-Stack apaixonada por construir soluções robustas e de alto impacto, com mais de **17 anos de experiência** em desenvolvimento de software e 5 anos de especialização em **ReactJS** e **Node.js**.
+Olá! Sou **Kayza Rosa**, uma desenvolvedora Full-Stack apaixonada por construir soluções robustas e de alto impacto, com mais de **17 anos de experiência** em desenvolvimento de software e 5 anos de especialização em **ReactJS** e **Node.js**.
 
 Minha expertise vai da arquitetura de sistemas à implementação completa, abrangendo front-end, back-end, nuvem e DevOps.
 
