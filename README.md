@@ -10,7 +10,21 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![CI/CD Badge](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=circleci&logoColor=white)
+![GIT Badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+# 💾 Bancos de Dados
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+# 💡 Arquitetura e Padrões de Código
+![SOLID Badge](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=codefactor&logoColor=white)
+![KISS Badge](https://img.shields.io/badge/KISS-007ACC?style=for-the-badge&logo=reactivex&logoColor=white)
+![MVC Badge](https://img.shields.io/badge/MVC-A71D31?style=for-the-badge&logo=dotnet&logoColor=white)
 
 Olá! Sou **Kayza Novais Rosa**, uma desenvolvedora Full-Stack apaixonada por construir soluções robustas e de alto impacto, com mais de **17 anos de experiência** em desenvolvimento de software e 5 anos de especialização em **ReactJS** e **Node.js**.
 
