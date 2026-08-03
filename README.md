@@ -47,14 +47,14 @@ Minha trajetória inclui a atuação em projetos de missão crítica e grande es
 
 Minhas competências abrangem todo o ciclo de vida de desenvolvimento:
 
-| Categoria | Principais Tecnologias | Anos de Experiência |
-| :--- | :--- | :--- |
-| **Front-end** | **ReactJS** (5 anos), **Next.js**, VueJS (1 ano), Vite, HTML/CSS (17 anos)|
-| **Back-end** | **Node.js** (5 anos), **Python**, PHP (17 anos), Laravel (1 ano) |
-| **Mobile** | **React Native** (1 ano), Ionic |
-| **Bancos de Dados** | MySQL (17 anos), PostgreSQL (10 anos), Oracle (6 anos), MongoDB (1 ano) , Redis (2 anos) |
-| **DevOps & Ferramentas** | **Docker**, S3 (5 anos), Jenkins (3 anos), GIT (13 anos), Figma|
-| **Arquitetura** | SOLID (6 anos), KISS (5 anos), Micro Serviços (1 ano), Arquitetura Hexagonal (1 ano), TypeScript (5 anos) |
+| Categoria | Principais Tecnologias |
+| :--- | :--- |
+| **Front-end** | **ReactJS** (5 anos), **Next.js**, VueJS (1 ano), Vite, HTML/CSS (17 anos)
+| **Back-end** | **Node.js** (5 anos), **Python**, PHP (17 anos), Laravel (1 ano)
+| **Mobile** | **React Native** (1 ano), Ionic
+| **Bancos de Dados** | MySQL (17 anos), PostgreSQL (10 anos), Oracle (6 anos), MongoDB (1 ano) , Redis (2 anos)
+| **DevOps & Ferramentas** | **Docker**, S3 (5 anos), Jenkins (3 anos), GIT (13 anos), Figma
+| **Arquitetura** | SOLID (6 anos), KISS (5 anos), Micro Serviços (1 ano), Arquitetura Hexagonal (1 ano), TypeScript (5 anos)
 
 ---
 
