@@ -11,6 +11,10 @@
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![CI/CD Badge](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=circleci&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 ## 💾 Bancos de Dados
@@ -26,7 +30,7 @@
 ![KISS Badge](https://img.shields.io/badge/KISS-007ACC?style=for-the-badge&logo=reactivex&logoColor=white)
 ![MVC Badge](https://img.shields.io/badge/MVC-A71D31?style=for-the-badge&logo=dotnet&logoColor=white)
 
-Olá! Sou **Kayza Rosa**, uma desenvolvedora Full-Stack apaixonada por construir soluções robustas e de alto impacto, com mais de **17 anos de experiência** em desenvolvimento de software e 5 anos de especialização em **ReactJS** e **Node.js**.
+Olá! Sou **Kayza Rosa**, uma desenvolvedora Full-Stack Sênior apaixonada por construir soluções robustas e de alto impacto, com mais de **18 anos de experiência** em desenvolvimento de software e 5 anos de especialização em **ReactJS**, **TypeScript** e **Node.js**.
 
 Minha expertise vai da arquitetura de sistemas à implementação completa, abrangendo front-end, back-end, nuvem e DevOps.
 
@@ -34,11 +38,15 @@ Minha expertise vai da arquitetura de sistemas à implementação completa, abra
 
 Minha trajetória inclui a atuação em projetos de missão crítica e grande escala:
 
-* **Accenture:** Atuei como *Application Development Senior Analyst* , desenvolvendo soluções Full-Stack com Node.js e ReactJS.
-    * **Micro Front-ends e BFF:** Trabalhei para a **Natura** com desenvolvimento de novas funcionalidades em **Micro Front-end (ReactJS)** e **BFF (Node.js)**.
+* **Act Digital (cliente Globo) — Atual:** Atuo como *Desenvolvedora Full-Stack Sênior* em front-end para produtos digitais de alto tráfego.
+    * **Globo Pop:** Construí cerca de **80% de uma biblioteca de componentes React do zero** (React 18, TypeScript, Vite, Tailwind CSS, Storybook), incluindo player de vídeo, CTAs, interstitial full-screen, interações sociais, acessibilidade, SEO e deep-linking, consumida em produção via **SSR e Module Federation**.
+    * **Receitas:** Manutenção e evolução de componentes de alta performance, com testes automatizados (Jest/RTL), testes A/B e observabilidade via Sentry.
+* **Accenture:** Atuei como *Application Development Senior Analyst*, desenvolvendo soluções Full-Stack com Node.js e ReactJS.
+    * **Micro Front-ends e BFF:** Trabalhei para a **Natura** com desenvolvimento de novas funcionalidades em **Micro Front-end (ReactJS, Redux e Apollo Client/GraphQL)** e **BFF (Node.js/Express)**.
     * **Sistemas Hospitalares:** Desenvolvi ferramentas para o **Hospital Sírio-Libanês**.
+    * **Bayer e microsserviços:** Manutenção e desenvolvimento de sistemas em Node.js e Express, e microsserviços com AWS Lambda no setor financeiro.
 * **DEAL TECHNOLOGIES / Porto Seguro:** Atuei como *Analista Desenvolvedor Sênior* no projeto da Porto Seguro, focada em demandas e ajustes de seguros.
-* **Freelance (Atual):** Crio e implemento soluções full-stack, utilizando **Node.js, React, Next.js, Vite e Python**, com experiência em **Docker** e **Figma**.
+* **Freelance:** Crio e implemento soluções full-stack, utilizando **Node.js, React, Next.js, Vite e Python**, com experiência em **Docker** e **Figma**.
 * **Arquitetura e Clean Code:** Liderei a reestruturação de um projeto pequeno em NodeJs, passando-o para padrões mais novos e estruturando o código com **TypeScript**.
 
 ---
@@ -49,12 +57,12 @@ Minhas competências abrangem todo o ciclo de vida de desenvolvimento:
 
 | Categoria | Principais Tecnologias |
 | :--- | :--- |
-| **Front-end** | **ReactJS** (5 anos), **Next.js**, VueJS (1 ano), Vite, HTML/CSS (17 anos)
-| **Back-end** | **Node.js** (5 anos), **Python**, PHP (17 anos), Laravel (1 ano)
-| **Mobile** | **React Native** (1 ano), Ionic
-| **Bancos de Dados** | MySQL (17 anos), PostgreSQL (10 anos), Oracle (6 anos), MongoDB (1 ano) , Redis (2 anos)
-| **DevOps & Ferramentas** | **Docker**, S3 (5 anos), Jenkins (3 anos), GIT (13 anos), Figma
-| **Arquitetura** | SOLID (6 anos), KISS (5 anos), Micro Serviços (1 ano), Arquitetura Hexagonal (1 ano), TypeScript (5 anos)
+| **Front-end** | **ReactJS** (5 anos), **Next.js**, VueJS (1 ano), Vite, HTML/CSS (18 anos) |
+| **Back-end** | **Node.js** (5 anos), **Python**, PHP (18 anos), Laravel (1 ano) |
+| **Mobile** | **React Native** (1 ano), Ionic |
+| **Bancos de Dados** | MySQL (18 anos), PostgreSQL (10 anos), Oracle (6 anos), MongoDB (1 ano), Redis (2 anos) |
+| **DevOps & Ferramentas** | **Docker**, S3 (5 anos), Jenkins (3 anos), GIT (13 anos), Figma |
+| **Arquitetura** | SOLID (6 anos), KISS (5 anos), Micro Serviços (1 ano), Arquitetura Hexagonal (1 ano), TypeScript (5 anos) |
 
 ---
 
@@ -62,7 +70,7 @@ Minhas competências abrangem todo o ciclo de vida de desenvolvimento:
 
 Sempre busco aprimoramento, mantendo-me atualizada com as tecnologias mais recentes:
 
-* **Pós-Graduação (Em Andamento):** **Tech Developer 360** na Faculdade de Tecnologia Rockeseat (Início em Set/2025).
+* **Pós-Graduação (Em Andamento):** **Tech Developer 360** na Faculdade de Tecnologia Rocketseat (Set/2025 – Mar/2027).
 
 ## 🔗 Conecte-se Comigo
 
